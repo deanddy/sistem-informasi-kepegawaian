@@ -1,7 +1,7 @@
 <div class="main-sidebar">
         <aside id="sidebar-wrapper">
           <div class="sidebar-brand">
-            <a href="index.html"><i class="fas fa-user-cog"></i> SISIPEG</a>
+            <a href="{{route('home')}}"><i class="fas fa-user-cog"></i> SISIPEG</a>
           </div>
           <div class="sidebar-brand sidebar-brand-sm">
             <a href="index.html"><i class="fas fa-user-cog"></i></a>
